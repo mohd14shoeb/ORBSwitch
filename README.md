@@ -1,4 +1,4 @@
-# ORBSwitch [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
+# ORBSwitch [![License: Zlib](https://img.shields.io/badge/License-Zlib-orange.svg)](https://opensource.org/licenses/Zlib) ![Version: 1.0](https://img.shields.io/badge/version-1.0-blue.svg)
 
 ORBSwitch is a simple iOS-style switch with a few customization options:
 
