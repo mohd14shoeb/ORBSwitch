@@ -64,5 +64,9 @@ switch.knobRelativeHeight = 0.8f;
 }
 ```
 
+## ToDo's
++ Document code;
++ Extend customization options;
+
 ## License
 Distributed under the permissive zlib License
