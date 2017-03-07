@@ -68,5 +68,8 @@ switch.knobRelativeHeight = 0.8f;
 + Document code;
 + Extend customization options;
 
+## Contributions
+Pull requests are welcome!
+
 ## License
 Distributed under the permissive zlib License
