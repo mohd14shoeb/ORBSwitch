@@ -7,7 +7,7 @@ ORBSwitch is a simple iOS-style switch with a few customization options:
  * Controllable animation events and dynamic property changes;
 
 
-![demo](Screenshots/demo.gif)
+<img src="Screenshots/switch.jpg" width="300"> ![demo](Screenshots/flow_w300.gif)
 
 ## Usage
 
