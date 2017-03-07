@@ -200,7 +200,8 @@
 				TargetAttributes = {
 					FF90009B1DEC32180058B547 = {
 						CreatedOnToolsVersion = 8.1;
-						ProvisioningStyle = Manual;
+						DevelopmentTeam = T55G7JLVK5;
+						ProvisioningStyle = Automatic;
 					};
 					FF9000B41DEC32190058B547 = {
 						CreatedOnToolsVersion = 8.1;
@@ -400,7 +401,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = T55G7JLVK5;
 				INFOPLIST_FILE = ORBSwitchDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.orbitum.ORBSwitchDemo;
@@ -413,7 +414,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = T55G7JLVK5;
 				INFOPLIST_FILE = ORBSwitchDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.orbitum.ORBSwitchDemo;
